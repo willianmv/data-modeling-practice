@@ -36,13 +36,13 @@ Antes de qualquer linha de código no backend ser escrita, é essencial entender
 
 ### ➡️ Sumário:
 
-- [01 - Apresentação do Projeto](01-apresentacao-do-projeto.md)
-- [02 - Regras de Negócio](02-regras-de-negocio.md)
-- [03 - Identificando Entidades, Atributos e Relacionamentos Iniciais](03-identificando-entidades-atributos-relacionamentos.md)
-- [04 - Criação do DER](04-criacao-der.md)
-- [05 - Dicionário de Dados](05-dicionario-dados.md)
-- [06 - Derivando o Modelo Lógico](06-modelo-logico.md)
-- [07 - Aplicando 1ª FN](07-primeira-forma-normal.md)
-- [08 - Aplicando 2ª FN](08-segunda-forma-normal.md)
-- [09 - Aplicando 3ª FN](09-terceira-forma-normal.md)
-- [10 - Implementação do Modelo Físico no Postgres](10-implementacao-modelo-fisico.md)
+- [01 - Apresentação do Projeto](praticas-modelagem-de-dados/01-apresentacao-do-projeto.md)
+- [02 - Regras de Negócio](praticas-modelagem-de-dados/02-regras-de-negocio.md)
+- [03 - Identificando Entidades, Atributos e Relacionamentos Iniciais](praticas-modelagem-de-dados/03-identificando-entidades-atributos-relacionamentos.md)
+- [04 - Criação do DER](praticas-modelagem-de-dados/04-criacao-der.md)
+- [05 - Dicionário de Dados](praticas-modelagem-de-dados/05-dicionario-dados.md)
+- [06 - Derivando o Modelo Lógico](praticas-modelagem-de-dados/06-modelo-logico.md)
+- [07 - Aplicando 1ª FN](praticas-modelagem-de-dados/07-primeira-forma-normal.md)
+- [08 - Aplicando 2ª FN](praticas-modelagem-de-dados/08-segunda-forma-normal.md)
+- [09 - Aplicando 3ª FN](praticas-modelagem-de-dados/09-terceira-forma-normal.md)
+- [10 - Implementação do Modelo Físico no MySQL](praticas-modelagem-de-dados/10-implementacao-modelo-fisico.md)
